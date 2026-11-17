@@ -6,7 +6,7 @@
         "source": "directory",
         "path": "./"
       },
-      "autoUpdate": true
+      "autoUpdate": false
     }
   },
   "enabledPlugins": {
